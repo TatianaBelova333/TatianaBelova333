@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Tatiana Belova</a><br>
 
-#LANGUAGES AND TOOLS
+# LANGUAGES AND TOOLS
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <!--
