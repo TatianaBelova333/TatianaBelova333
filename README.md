@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Tatiana Belova</a><br>
 
-# LANGUAGES AND TOOLS
+### LANGUAGES AND TOOLS
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 <!--
 **TatianaBelova333/TatianaBelova333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
