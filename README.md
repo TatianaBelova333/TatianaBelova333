@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Tatiana Belova</a><br>
 
 ### ABOUT ME
-- I'm a beginner Python developer
+- I'm a beginner Python backend developer with 3 years of experience with Python.
 - 📫 How to reach me: [![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/Tanya333_B)
+-                     [!MAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
   
 ### LANGUAGES AND TOOLS
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
