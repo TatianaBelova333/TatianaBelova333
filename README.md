@@ -2,7 +2,7 @@
 
 ### ABOUT ME
 - I'm a beginner Python backend developer with 3 years of experience with Python.
-- 📫 How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tanya333_B)[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(tatiana.belova88@gmail.com)]
+- 📫 How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tanya333_B)[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](tatiana.belova88@gmail.com)
   
 ### LANGUAGES AND TOOLS
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
