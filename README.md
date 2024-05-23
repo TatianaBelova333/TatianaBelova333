@@ -25,8 +25,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaBelova333&theme=jolly)
 
-![](https://komarev.com/ghpvc/?username=TatianaBelova333)
-
 <!--
 **TatianaBelova333/TatianaBelova333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
