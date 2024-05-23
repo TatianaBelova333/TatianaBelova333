@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Tatiana Belova</a><br>
 
 ### ABOUT ME
-- :woman_technologist: I'm a beginner Python backend developer with 3 years of experience with Python.
+- :woman_technologist: I'm a beginner Python backend developer with 3 years of experience with Python, Django DRF and Flask.
+- :computer: Currently looking for a full-time job.
 - 📫 How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tanya333_B)[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tatiana.belova88@gmail.com)
   
 ### LANGUAGES AND TOOLS
