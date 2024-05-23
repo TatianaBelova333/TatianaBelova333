@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Tatiana Belova</a><br>
 
-- 📫 How to reach me: ![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)
+- 📫 How to reach me: [![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/Tanya333_B)
 
 ### LANGUAGES AND TOOLS
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
