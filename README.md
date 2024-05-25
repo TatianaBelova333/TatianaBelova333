@@ -3,6 +3,7 @@
 ### ABOUT ME
 - :woman_technologist: I'm a beginner Python backend developer with 3 years of experience with Python, Django DRF and Flask.
 - :computer: Currently looking for a full-time job.
+- ⚡ Fun fact: When I was riding a train across Russia, I met two BBC Breakfast host and got interviewed by them for the "Around the World in 80 Days" TV-series.
 - 📫 How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tanya333_B)[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tatiana.belova88@gmail.com)
   
 ### LANGUAGES AND TOOLS
