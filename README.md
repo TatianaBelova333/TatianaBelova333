@@ -1,4 +1,4 @@
-<img src="/programmer_cat.gif" width="400" height="300" text-align="center"/>
+<p align="center"><img src="/programmer_cat.gif" width="400" height="300" text-align="center"/></p>
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Tatiana Belova</a><br>
 
 ### ABOUT ME
