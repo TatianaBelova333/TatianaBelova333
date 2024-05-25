@@ -1,5 +1,4 @@
-![Cat](/programmer_cat.gif)
-<img src="/programmer_cat.gif" width="400" height="300"/>
+<img src="/programmer_cat.gif" width="400" height="300" class="center"/>
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Tatiana Belova</a><br>
 
 ### ABOUT ME
