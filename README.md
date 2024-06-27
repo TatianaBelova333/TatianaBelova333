@@ -29,7 +29,6 @@
   <img src="/programmer_cat.gif" width="400" height="300">
   <img src="https://leetcard.jacoblin.cool/TatianaBelova333">
 </p>
-<img src="https://leetcard.jacoblin.cool/TatianaBelova333">
 <!--
 **TatianaBelova333/TatianaBelova333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
