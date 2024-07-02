@@ -27,7 +27,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaBelova333&theme=jolly">
   <img src="/programmer_cat.gif" width="400" height="300">
-  <img src="https://leetcard.jacoblin.cool/TatianaBelova333">
+   <!-- <img src="https://leetcard.jacoblin.cool/TatianaBelova333"> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=TatianaBelova333&show_icons=true&theme=radical">-->
 </p>
 <!--
